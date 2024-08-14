@@ -1,12 +1,12 @@
-![Image Thumbnail](https://github.com/kevintherm/image-roaster/blob/main/ss/ss1.png)
-
 # Image Roaster
 
 `Ga ada temen buat ngeroasting kamu? Tenang aja tinggal upload foto kamu ke image roaster dan voila kamu dapat teman roastingan 🤣`
 
 ## Live Demo
 
-Visit [Live Demo](https://image-roaster.dtherm.shop/)
+Visit [Live Demo](https://image-roaster.hafizhibnusyam.xyz/)
+
+![Image Thumbnail](https://github.com/hafizhlf/image-roaster/blob/remove-social-links/ss/Roasting-Foto.png)
 
 ## Requirements
 
@@ -17,7 +17,7 @@ Visit [Live Demo](https://image-roaster.dtherm.shop/)
 
 Installation is pretty simple and straight-forward, just clone it and paste your api key.
 
-1. Clone this repository `git clone https://github.com/kevintherm/image-roaster`
+1. Clone this repository `git clone https://github.com/hafizhlf/image-roaster/tree/remove-social-links`
 2. Go to working directory `cd image-roaster`
 3. Install package and dependencies `npm install`
 4. Configure your env file `cd .env.copy .env`
